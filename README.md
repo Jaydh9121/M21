@@ -40,6 +40,7 @@ This project involves training a machine learning model to classify SMS text mes
 4. Optionally, modify the code or experiment with different preprocessing techniques and machine learning algorithms to improve the model's performance.
 
 **Technology Used:**
+
 Python (or any other programming language of choice) Command-line interface (CLI) or Graphical user interface (GUI) based on the application design Contribution Code used in this project was referenced from prior modules, ChatGPT, Copilot, and various Google searches to help understand syntax and correct errors.
 
 
